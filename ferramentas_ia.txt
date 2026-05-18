@@ -1,3 +1,4 @@
 Python
 Git
 Kanbam
+foco de carreira Engenharia de machine learning
